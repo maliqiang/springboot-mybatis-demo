@@ -1,0 +1,5 @@
+<application>
+  <component name="MavenServices">
+    <service-url>https://repository.jboss.org/nexus/service/local/</service-url>
+  </component>
+</application>
